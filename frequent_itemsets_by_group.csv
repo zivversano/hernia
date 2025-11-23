@@ -1,0 +1,441 @@
+itemset,frequency,surgeon_group
+בלון דו צדדי PDBS2,205,Cheap
+בלון דו צדדי PDBS2,694,Expensive
+בלון אמצעי T10SB,173,Cheap
+בלון אמצעי T10SB,681,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2,170,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2,671,Expensive
+טרוקר אקסל ללא סכין 11 B11LT,538,Cheap
+טרוקר אקסל ללא סכין 11 B11LT,78,Expensive
+3DMAX LARGE 10.8X16-RIGHT,335,Cheap
+3DMAX LARGE 10.8X16-RIGHT,273,Expensive
+3DMAX LARGE 10.8X16-LEFT,331,Cheap
+3DMAX LARGE 10.8X16-LEFT,274,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT,328,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT,265,Expensive
+טרוקר ללא סכין 5 NB5STF,302,Cheap
+טרוקר ללא סכין 5 NB5STF,288,Expensive
+טאקר-10 סיכות MICROVAL,275,Cheap
+טאקר-10 סיכות MICROVAL,117,Expensive
+טאקר נספג-12 סיכות-ETHICON,104,Cheap
+טאקר נספג-12 סיכות-ETHICON,227,Expensive
+שרוול אקסל OPTI-5X100,199,Cheap
+שרוול אקסל OPTI-5X100,123,Expensive
+אנדו קליפ 5 EL5ML,158,Cheap
+אנדו קליפ 5 EL5ML,162,Expensive
+סקשן איריגיישיין 5,69,Cheap
+סקשן איריגיישיין 5,248,Expensive
+מספריים לאפ,157,Cheap
+מספריים לאפ,157,Expensive
+טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,277,Cheap
+טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,26,Expensive
+בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,17,Cheap
+בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,277,Expensive
+בלון אמצעי T10SB + טרוקר ללא סכין 5 NB5STF,17,Cheap
+בלון אמצעי T10SB + טרוקר ללא סכין 5 NB5STF,269,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,17,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,267,Expensive
+שרוול אקסל 10-11  CB11LT,231,Cheap
+שרוול אקסל 10-11  CB11LT,31,Expensive
+DYNAMESH ENDOLAP 3D 10*15CM,130,Cheap
+DYNAMESH ENDOLAP 3D 10*15CM,131,Expensive
+3DMAX LARGE 10.8X16-LEFT + טאקר נספג-12 סיכות-ETHICON,93,Cheap
+3DMAX LARGE 10.8X16-LEFT + טאקר נספג-12 סיכות-ETHICON,157,Expensive
+LIQUIBAND FIX8 טאקר דבק,111,Cheap
+LIQUIBAND FIX8 טאקר דבק,138,Expensive
+טרוקר אקסל OPTI-סכין-5X100,113,Cheap
+טרוקר אקסל OPTI-סכין-5X100,134,Expensive
+3DMAX LARGE 10.8X16-RIGHT + טאקר נספג-12 סיכות-ETHICON,93,Cheap
+3DMAX LARGE 10.8X16-RIGHT + טאקר נספג-12 סיכות-ETHICON,153,Expensive
+3DMAX LARGE 10.8X16-LEFT + בלון דו צדדי PDBS2,9,Cheap
+3DMAX LARGE 10.8X16-LEFT + בלון דו צדדי PDBS2,234,Expensive
+3DMAX LARGE 10.8X16-RIGHT + בלון דו צדדי PDBS2,9,Cheap
+3DMAX LARGE 10.8X16-RIGHT + בלון דו צדדי PDBS2,233,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + טאקר נספג-12 סיכות-ETHICON,91,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + טאקר נספג-12 סיכות-ETHICON,151,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון דו צדדי PDBS2,9,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון דו צדדי PDBS2,226,Expensive
+בלון דו צדדי PDBS2 + סקשן איריגיישיין 5,15,Cheap
+בלון דו צדדי PDBS2 + סקשן איריגיישיין 5,217,Expensive
+CAPSURE טאקר 30,146,Cheap
+CAPSURE טאקר 30,81,Expensive
+3DMAX LARGE 10.8X16-LEFT + בלון אמצעי T10SB,8,Cheap
+3DMAX LARGE 10.8X16-LEFT + בלון אמצעי T10SB,219,Expensive
+3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB,8,Cheap
+3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB,218,Expensive
+3DMAX LARGE 10.8X16-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,8,Cheap
+3DMAX LARGE 10.8X16-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,217,Expensive
+3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,8,Cheap
+3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,216,Expensive
+בלון אמצעי T10SB + סקשן איריגיישיין 5,15,Cheap
+בלון אמצעי T10SB + סקשן איריגיישיין 5,207,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + סקשן איריגיישיין 5,15,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + סקשן איריגיישיין 5,206,Expensive
+טאקר-10 סיכות MICROVAL + טרוקר ללא סכין 5 NB5STF,171,Cheap
+טאקר-10 סיכות MICROVAL + טרוקר ללא סכין 5 NB5STF,49,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB,8,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB,211,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,8,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,209,Expensive
+בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,4,Cheap
+בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,196,Expensive
+בלון אמצעי T10SB + טאקר נספג-12 סיכות-ETHICON,3,Cheap
+בלון אמצעי T10SB + טאקר נספג-12 סיכות-ETHICON,195,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,3,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,193,Expensive
+DYNAMESH ENDOLAP 3D 10*15CM + בלון אמצעי T10SB,72,Cheap
+DYNAMESH ENDOLAP 3D 10*15CM + בלון אמצעי T10SB,123,Expensive
+טרוקר CFF03 - 5X100,88,Cheap
+טרוקר CFF03 - 5X100,106,Expensive
+DYNAMESH ENDOLAP 3D 10*15CM + בלון דו צדדי PDBS2,70,Cheap
+DYNAMESH ENDOLAP 3D 10*15CM + בלון דו צדדי PDBS2,123,Expensive
+DYNAMESH ENDOLAP 3D 10*15CM + בלון אמצעי T10SB + בלון דו צדדי PDBS2,69,Cheap
+DYNAMESH ENDOLAP 3D 10*15CM + בלון אמצעי T10SB + בלון דו צדדי PDBS2,123,Expensive
+בלון אמצעי T10SB + טרוקר אקסל OPTI-סכין-5X100,73,Cheap
+בלון אמצעי T10SB + טרוקר אקסל OPTI-סכין-5X100,118,Expensive
+בלון דו צדדי PDBS2 + טרוקר אקסל OPTI-סכין-5X100,73,Cheap
+בלון דו צדדי PDBS2 + טרוקר אקסל OPTI-סכין-5X100,117,Expensive
+טרוקר ללא סכין 5 NB5STF + סקשן איריגיישיין 5,38,Cheap
+טרוקר ללא סכין 5 NB5STF + סקשן איריגיישיין 5,150,Expensive
+טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT,187,Cheap
+טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT,1,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר אקסל OPTI-סכין-5X100,71,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר אקסל OPTI-סכין-5X100,115,Expensive
+שרוול לטרוקר 5 - CFS02,87,Cheap
+שרוול לטרוקר 5 - CFS02,99,Expensive
+טרוקר אקסל OPTI-5X100,134,Cheap
+טרוקר אקסל OPTI-5X100,51,Expensive
+3DMAX LARGE 10.8X16-RIGHT + טרוקר אקסל ללא סכין 11 B11LT,164,Cheap
+3DMAX LARGE 10.8X16-RIGHT + טרוקר אקסל ללא סכין 11 B11LT,20,Expensive
+טרוקר CFF03 - 5X100 + שרוול לטרוקר 5 - CFS02,85,Cheap
+טרוקר CFF03 - 5X100 + שרוול לטרוקר 5 - CFS02,98,Expensive
+3DMAX LARGE 10.8X16-LEFT + טרוקר אקסל ללא סכין 11 B11LT,162,Cheap
+3DMAX LARGE 10.8X16-LEFT + טרוקר אקסל ללא סכין 11 B11LT,20,Expensive
+טרוקר אקסל OPTI-סכין-5X100 + שרוול אקסל OPTI-5X100,94,Cheap
+טרוקר אקסל OPTI-סכין-5X100 + שרוול אקסל OPTI-5X100,87,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + טרוקר אקסל ללא סכין 11 B11LT,161,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + טרוקר אקסל ללא סכין 11 B11LT,19,Expensive
+אנדו קליפ 5 EL5ML + בלון דו צדדי PDBS2,27,Cheap
+אנדו קליפ 5 EL5ML + בלון דו צדדי PDBS2,139,Expensive
+בלון דו צדדי PDBS2 + שרוול אקסל OPTI-5X100,80,Cheap
+בלון דו צדדי PDBS2 + שרוול אקסל OPTI-5X100,84,Expensive
+MICROVAL 16X11-RIGHT,140,Cheap
+MICROVAL 16X11-RIGHT,22,Expensive
+טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,161,Cheap
+טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,0,Expensive
+בלון אמצעי T10SB + שרוול אקסל OPTI-5X100,80,Cheap
+בלון אמצעי T10SB + שרוול אקסל OPTI-5X100,81,Expensive
+MICROVAL 16X11-LEFT,137,Cheap
+MICROVAL 16X11-LEFT,22,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + שרוול אקסל OPTI-5X100,78,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + שרוול אקסל OPTI-5X100,79,Expensive
+MICROVAL 14X10-RIGHT,50,Cheap
+MICROVAL 14X10-RIGHT,106,Expensive
+MICROVAL 14X10-LEFT,51,Cheap
+MICROVAL 14X10-LEFT,105,Expensive
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT,134,Cheap
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT,21,Expensive
+טרוקר ללא סכין 5 NB5STF + מספריים לאפ,70,Cheap
+טרוקר ללא סכין 5 NB5STF + מספריים לאפ,84,Expensive
+טאקר נספג - 15 סיכות,54,Cheap
+טאקר נספג - 15 סיכות,97,Expensive
+3DMAX LARGE 10.8X16-LEFT + אנדו קליפ 5 EL5ML,72,Cheap
+3DMAX LARGE 10.8X16-LEFT + אנדו קליפ 5 EL5ML,79,Expensive
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT,46,Cheap
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT,104,Expensive
+בלון אמצעי T10SB + טאקר-10 סיכות MICROVAL,31,Cheap
+בלון אמצעי T10SB + טאקר-10 סיכות MICROVAL,117,Expensive
+בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF + סקשן איריגיישיין 5,7,Cheap
+בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF + סקשן איריגיישיין 5,141,Expensive
+אנדו קליפ 5 EL5ML + בלון אמצעי T10SB,12,Cheap
+אנדו קליפ 5 EL5ML + בלון אמצעי T10SB,136,Expensive
+PROGRIP FLAT SHEET MESH 15X10,109,Cheap
+PROGRIP FLAT SHEET MESH 15X10,39,Expensive
+3DMAX LARGE 10.8X16-RIGHT + אנדו קליפ 5 EL5ML,73,Cheap
+3DMAX LARGE 10.8X16-RIGHT + אנדו קליפ 5 EL5ML,74,Expensive
+בלון דו צדדי PDBS2 + מספריים לאפ,11,Cheap
+בלון דו צדדי PDBS2 + מספריים לאפ,136,Expensive
+טרוקר אקסל ללא סכין 11 B11LT + מספריים לאפ,122,Cheap
+טרוקר אקסל ללא סכין 11 B11LT + מספריים לאפ,25,Expensive
+PROGRIP ANTMCL 15X10CM-RIGHT,76,Cheap
+PROGRIP ANTMCL 15X10CM-RIGHT,70,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + אנדו קליפ 5 EL5ML,72,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + אנדו קליפ 5 EL5ML,74,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF + סקשן איריגיישיין 5,7,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF + סקשן איריגיישיין 5,138,Expensive
+3DMAX LARGE 10.8X16-RIGHT + LIQUIBAND FIX8 טאקר דבק,109,Cheap
+3DMAX LARGE 10.8X16-RIGHT + LIQUIBAND FIX8 טאקר דבק,36,Expensive
+PROGRIP ANTMCL 15X10CM-LEFT,75,Cheap
+PROGRIP ANTMCL 15X10CM-LEFT,70,Expensive
+אנדו קליפ 5 EL5ML + בלון אמצעי T10SB + בלון דו צדדי PDBS2,12,Cheap
+אנדו קליפ 5 EL5ML + בלון אמצעי T10SB + בלון דו צדדי PDBS2,133,Expensive
+בלון אמצעי T10SB + טרוקר ללא סכין 5 NB5STF + סקשן איריגיישיין 5,7,Cheap
+בלון אמצעי T10SB + טרוקר ללא סכין 5 NB5STF + סקשן איריגיישיין 5,138,Expensive
+PROGRIP ANTMCL 15X10CM-LEFT + PROGRIP ANTMCL 15X10CM-RIGHT,74,Cheap
+PROGRIP ANTMCL 15X10CM-LEFT + PROGRIP ANTMCL 15X10CM-RIGHT,70,Expensive
+בלון דו צדדי PDBS2 + טרוקר אקסל OPTI-סכין-5X100 + שרוול אקסל OPTI-5X100,69,Cheap
+בלון דו צדדי PDBS2 + טרוקר אקסל OPTI-סכין-5X100 + שרוול אקסל OPTI-5X100,73,Expensive
+בלון אמצעי T10SB + טרוקר אקסל OPTI-סכין-5X100 + שרוול אקסל OPTI-5X100,69,Cheap
+בלון אמצעי T10SB + טרוקר אקסל OPTI-סכין-5X100 + שרוול אקסל OPTI-5X100,73,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,31,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,111,Expensive
+בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,31,Cheap
+בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,111,Expensive
+3DMAX LARGE 10.8X16-LEFT + LIQUIBAND FIX8 טאקר דבק,106,Cheap
+3DMAX LARGE 10.8X16-LEFT + LIQUIBAND FIX8 טאקר דבק,34,Expensive
+MICROVAL 14X10-LEFT + טאקר-10 סיכות MICROVAL,44,Cheap
+MICROVAL 14X10-LEFT + טאקר-10 סיכות MICROVAL,95,Expensive
+אנדו קליפ 5 176630,28,Cheap
+אנדו קליפ 5 176630,111,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + LIQUIBAND FIX8 טאקר דבק,106,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + LIQUIBAND FIX8 טאקר דבק,33,Expensive
+"מספריים מונופולר 5 מ""מ",69,Cheap
+"מספריים מונופולר 5 מ""מ",70,Expensive
+MICROVAL 16X11-RIGHT + טרוקר אקסל ללא סכין 11 B11LT,138,Cheap
+MICROVAL 16X11-RIGHT + טרוקר אקסל ללא סכין 11 B11LT,1,Expensive
+MICROVAL 14X10-RIGHT + טאקר-10 סיכות MICROVAL,42,Cheap
+MICROVAL 14X10-RIGHT + טאקר-10 סיכות MICROVAL,96,Expensive
+3DMAX LARGE 10.8X16-LEFT + בלון אמצעי T10SB + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-LEFT + בלון אמצעי T10SB + טאקר נספג-12 סיכות-ETHICON,136,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר אקסל OPTI-סכין-5X100 + שרוול אקסל OPTI-5X100,67,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר אקסל OPTI-סכין-5X100 + שרוול אקסל OPTI-5X100,71,Expensive
+טרוקר אקסל עם סכין 10-11 D11LT,53,Cheap
+טרוקר אקסל עם סכין 10-11 D11LT,83,Expensive
+MICROVAL 16X11-RIGHT + טרוקר ללא סכין 5 NB5STF,134,Cheap
+MICROVAL 16X11-RIGHT + טרוקר ללא סכין 5 NB5STF,2,Expensive
+MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL,123,Cheap
+MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL,13,Expensive
+MICROVAL 16X11-LEFT + טרוקר אקסל ללא סכין 11 B11LT,135,Cheap
+MICROVAL 16X11-LEFT + טרוקר אקסל ללא סכין 11 B11LT,1,Expensive
+3DMAX LARGE 10.8X16-LEFT + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-LEFT + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,134,Expensive
+3DMAX LARGE 10.8X16-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,134,Expensive
+טרוקר אקסל OPTI-5X100 + שרוול אקסל OPTI-5X100,101,Cheap
+טרוקר אקסל OPTI-5X100 + שרוול אקסל OPTI-5X100,35,Expensive
+טרוקר אקסל OPTI-5X100 + טרוקר אקסל ללא סכין 11 B11LT,99,Cheap
+טרוקר אקסל OPTI-5X100 + טרוקר אקסל ללא סכין 11 B11LT,36,Expensive
+MICROVAL 16X11-LEFT + טאקר-10 סיכות MICROVAL,120,Cheap
+MICROVAL 16X11-LEFT + טאקר-10 סיכות MICROVAL,14,Expensive
+בלון אמצעי T10SB + מספריים לאפ,9,Cheap
+בלון אמצעי T10SB + מספריים לאפ,125,Expensive
+3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + טאקר נספג-12 סיכות-ETHICON,132,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + מספריים לאפ,9,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + מספריים לאפ,125,Expensive
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טרוקר אקסל ללא סכין 11 B11LT,132,Cheap
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טרוקר אקסל ללא סכין 11 B11LT,1,Expensive
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + טאקר-10 סיכות MICROVAL,39,Cheap
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + טאקר-10 סיכות MICROVAL,94,Expensive
+MICROVAL 16X11-LEFT + טרוקר ללא סכין 5 NB5STF,131,Cheap
+MICROVAL 16X11-LEFT + טרוקר ללא סכין 5 NB5STF,2,Expensive
+MICROVAL 14X10-RIGHT + בלון אמצעי T10SB,27,Cheap
+MICROVAL 14X10-RIGHT + בלון אמצעי T10SB,106,Expensive
+CAPSURE טאקר 30 + טרוקר אקסל ללא סכין 11 B11LT,127,Cheap
+CAPSURE טאקר 30 + טרוקר אקסל ללא סכין 11 B11LT,6,Expensive
+MICROVAL 16X11-RIGHT + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,132,Cheap
+MICROVAL 16X11-RIGHT + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,0,Expensive
+3DMAX LARGE 10.8X16-RIGHT + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-RIGHT + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,130,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + טאקר נספג-12 סיכות-ETHICON,130,Expensive
+MICROVAL 14X10-LEFT + בלון אמצעי T10SB,27,Cheap
+MICROVAL 14X10-LEFT + בלון אמצעי T10SB,105,Expensive
+3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,130,Expensive
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון אמצעי T10SB,27,Cheap
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון אמצעי T10SB,104,Expensive
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טרוקר ללא סכין 5 NB5STF,128,Cheap
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טרוקר ללא סכין 5 NB5STF,2,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,128,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,2,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג-12 סיכות-ETHICON,128,Expensive
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL,117,Cheap
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL,13,Expensive
+MICROVAL 14X10-RIGHT + בלון דו צדדי PDBS2,27,Cheap
+MICROVAL 14X10-RIGHT + בלון דו צדדי PDBS2,102,Expensive
+MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,27,Cheap
+MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,102,Expensive
+MICROVAL 16X11-LEFT + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,129,Cheap
+MICROVAL 16X11-LEFT + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,0,Expensive
+בלון דו צדדי PDBS2 + טרוקר CFF03 - 5X100,39,Cheap
+בלון דו צדדי PDBS2 + טרוקר CFF03 - 5X100,89,Expensive
+MICROVAL 14X10-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,27,Cheap
+MICROVAL 14X10-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,101,Expensive
+MICROVAL 14X10-LEFT + בלון דו צדדי PDBS2,27,Cheap
+MICROVAL 14X10-LEFT + בלון דו צדדי PDBS2,101,Expensive
+DEXTILE RIGHT ANT. MESH 16X12C,127,Cheap
+DEXTILE RIGHT ANT. MESH 16X12C,1,Expensive
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון דו צדדי PDBS2,27,Cheap
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון דו צדדי PDBS2,100,Expensive
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,27,Cheap
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,100,Expensive
+DEXTILE LEFT ANT. MESH 16X12CM,125,Cheap
+DEXTILE LEFT ANT. MESH 16X12CM,1,Expensive
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,126,Cheap
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,0,Expensive
+DEXTILE LEFT ANT. MESH 16X12CM + DEXTILE RIGHT ANT. MESH 16X12C,125,Cheap
+DEXTILE LEFT ANT. MESH 16X12CM + DEXTILE RIGHT ANT. MESH 16X12C,1,Expensive
+3DMAX LARGE 10.8X16-LEFT + שרוול אקסל 10-11  CB11LT,113,Cheap
+3DMAX LARGE 10.8X16-LEFT + שרוול אקסל 10-11  CB11LT,13,Expensive
+CAPSURE טאקר 30 + טרוקר ללא סכין 5 NB5STF,83,Cheap
+CAPSURE טאקר 30 + טרוקר ללא סכין 5 NB5STF,43,Expensive
+3DMAX LARGE 10.8X16-RIGHT + שרוול אקסל 10-11  CB11LT,112,Cheap
+3DMAX LARGE 10.8X16-RIGHT + שרוול אקסל 10-11  CB11LT,13,Expensive
+בלון אמצעי T10SB + טרוקר CFF03 - 5X100,37,Cheap
+בלון אמצעי T10SB + טרוקר CFF03 - 5X100,88,Expensive
+LIQUIBAND FIX8 טאקר דבק + טרוקר ללא סכין 5 NB5STF,15,Cheap
+LIQUIBAND FIX8 טאקר דבק + טרוקר ללא סכין 5 NB5STF,110,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + שרוול אקסל 10-11  CB11LT,111,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + שרוול אקסל 10-11  CB11LT,13,Expensive
+מספריים לאפ + סקשן איריגיישיין 5,27,Cheap
+מספריים לאפ + סקשן איריגיישיין 5,96,Expensive
+בלון דו צדדי PDBS2 + שרוול לטרוקר 5 - CFS02,39,Cheap
+בלון דו צדדי PDBS2 + שרוול לטרוקר 5 - CFS02,84,Expensive
+MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + טאקר-10 סיכות MICROVAL,96,Expensive
+MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT,121,Cheap
+MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT,1,Expensive
+MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר ללא סכין 5 NB5STF,121,Cheap
+MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר ללא סכין 5 NB5STF,1,Expensive
+MICROVAL 14X10-LEFT + בלון אמצעי T10SB + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-LEFT + בלון אמצעי T10SB + טאקר-10 סיכות MICROVAL,95,Expensive
+LIQUIBAND FIX8 טאקר דבק + בלון דו צדדי PDBS2,0,Cheap
+LIQUIBAND FIX8 טאקר דבק + בלון דו צדדי PDBS2,121,Expensive
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + טאקר-10 סיכות MICROVAL,94,Expensive
+בלון דו צדדי PDBS2 + טרוקר CFF03 - 5X100 + שרוול לטרוקר 5 - CFS02,38,Cheap
+בלון דו צדדי PDBS2 + טרוקר CFF03 - 5X100 + שרוול לטרוקר 5 - CFS02,83,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר CFF03 - 5X100,36,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר CFF03 - 5X100,84,Expensive
+בלון אמצעי T10SB + שרוול לטרוקר 5 - CFS02,37,Cheap
+בלון אמצעי T10SB + שרוול לטרוקר 5 - CFS02,82,Expensive
+MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,92,Expensive
+MICROVAL 16X11-LEFT + טאקר-10 סיכות MICROVAL + טרוקר ללא סכין 5 NB5STF,118,Cheap
+MICROVAL 16X11-LEFT + טאקר-10 סיכות MICROVAL + טרוקר ללא סכין 5 NB5STF,1,Expensive
+טרוקר אקסל ללא סכין 11 B11LT + שרוול אקסל OPTI-5X100,85,Cheap
+טרוקר אקסל ללא סכין 11 B11LT + שרוול אקסל OPTI-5X100,34,Expensive
+MICROVAL 16X11-LEFT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT,118,Cheap
+MICROVAL 16X11-LEFT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT,1,Expensive
+MICROVAL 14X10-RIGHT + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-RIGHT + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,92,Expensive
+MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,119,Cheap
+MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,0,Expensive
+MICROVAL 14X10-LEFT + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-LEFT + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,91,Expensive
+MICROVAL 14X10-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,91,Expensive
+3DMAX LARGE 10.8X16-RIGHT + מספריים לאפ,77,Cheap
+3DMAX LARGE 10.8X16-RIGHT + מספריים לאפ,40,Expensive
+LIQUIBAND FIX8 טאקר דבק + טרוקר אקסל ללא סכין 11 B11LT,102,Cheap
+LIQUIBAND FIX8 טאקר דבק + טרוקר אקסל ללא סכין 11 B11LT,15,Expensive
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,90,Expensive
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,27,Cheap
+MICROVAL 14X10-LEFT + MICROVAL 14X10-RIGHT + בלון דו צדדי PDBS2 + טאקר-10 סיכות MICROVAL,90,Expensive
+בלון אמצעי T10SB + טרוקר CFF03 - 5X100 + שרוול לטרוקר 5 - CFS02,36,Cheap
+בלון אמצעי T10SB + טרוקר CFF03 - 5X100 + שרוול לטרוקר 5 - CFS02,81,Expensive
+MICROVAL 16X11-LEFT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,116,Cheap
+MICROVAL 16X11-LEFT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,0,Expensive
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT,115,Cheap
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT,1,Expensive
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר ללא סכין 5 NB5STF,115,Cheap
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר ללא סכין 5 NB5STF,1,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + שרוול לטרוקר 5 - CFS02,36,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + שרוול לטרוקר 5 - CFS02,79,Expensive
+PROGRIP ANTMCL 15X10CM-RIGHT + בלון דו צדדי PDBS2,52,Cheap
+PROGRIP ANTMCL 15X10CM-RIGHT + בלון דו צדדי PDBS2,63,Expensive
+3DMAX LARGE 10.8X16-LEFT + מספריים לאפ,77,Cheap
+3DMAX LARGE 10.8X16-LEFT + מספריים לאפ,37,Expensive
+PROGRIP ANTMCL 15X10CM-LEFT + PROGRIP ANTMCL 15X10CM-RIGHT + בלון דו צדדי PDBS2,50,Cheap
+PROGRIP ANTMCL 15X10CM-LEFT + PROGRIP ANTMCL 15X10CM-RIGHT + בלון דו צדדי PDBS2,63,Expensive
+PROGRIP ANTMCL 15X10CM-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,50,Cheap
+PROGRIP ANTMCL 15X10CM-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,63,Expensive
+PROGRIP ANTMCL 15X10CM-RIGHT + בלון אמצעי T10SB,50,Cheap
+PROGRIP ANTMCL 15X10CM-RIGHT + בלון אמצעי T10SB,63,Expensive
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,113,Cheap
+MICROVAL 16X11-LEFT + MICROVAL 16X11-RIGHT + טאקר-10 סיכות MICROVAL + טרוקר אקסל ללא סכין 11 B11LT + טרוקר ללא סכין 5 NB5STF,0,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר CFF03 - 5X100 + שרוול לטרוקר 5 - CFS02,35,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר CFF03 - 5X100 + שרוול לטרוקר 5 - CFS02,78,Expensive
+PROGRIP ANTMCL 15X10CM-LEFT + בלון דו צדדי PDBS2,50,Cheap
+PROGRIP ANTMCL 15X10CM-LEFT + בלון דו צדדי PDBS2,63,Expensive
+LIQUIBAND FIX8 טאקר דבק + בלון אמצעי T10SB + בלון דו צדדי PDBS2,0,Cheap
+LIQUIBAND FIX8 טאקר דבק + בלון אמצעי T10SB + בלון דו צדדי PDBS2,112,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + מספריים לאפ,76,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + מספריים לאפ,36,Expensive
+LIQUIBAND FIX8 טאקר דבק + בלון אמצעי T10SB,0,Cheap
+LIQUIBAND FIX8 טאקר דבק + בלון אמצעי T10SB,112,Expensive
+PROGRIP ANTMCL 15X10CM-LEFT + PROGRIP ANTMCL 15X10CM-RIGHT + בלון אמצעי T10SB,48,Cheap
+PROGRIP ANTMCL 15X10CM-LEFT + PROGRIP ANTMCL 15X10CM-RIGHT + בלון אמצעי T10SB,63,Expensive
+PROGRIP ANTMCL 15X10CM-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,48,Cheap
+PROGRIP ANTMCL 15X10CM-LEFT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,63,Expensive
+PROGRIP ANTMCL 15X10CM-LEFT + בלון אמצעי T10SB,48,Cheap
+PROGRIP ANTMCL 15X10CM-LEFT + בלון אמצעי T10SB,63,Expensive
+PROGRIP ANTMCL 15X10CM-LEFT + PROGRIP ANTMCL 15X10CM-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,48,Cheap
+PROGRIP ANTMCL 15X10CM-LEFT + PROGRIP ANTMCL 15X10CM-RIGHT + בלון אמצעי T10SB + בלון דו צדדי PDBS2,63,Expensive
+DEXTILE RIGHT ANT. MESH 16X12C + טרוקר אקסל ללא סכין 11 B11LT,110,Cheap
+DEXTILE RIGHT ANT. MESH 16X12C + טרוקר אקסל ללא סכין 11 B11LT,0,Expensive
+טאקר נספג-25 סיכות-ETHICON,25,Cheap
+טאקר נספג-25 סיכות-ETHICON,85,Expensive
+DYNAMESH ENDOLAP 3D 10*15CM + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,6,Cheap
+DYNAMESH ENDOLAP 3D 10*15CM + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,104,Expensive
+DYNAMESH ENDOLAP 3D 10*15CM + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,6,Cheap
+DYNAMESH ENDOLAP 3D 10*15CM + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,104,Expensive
+DYNAMESH ENDOLAP 3D 10*15CM + בלון אמצעי T10SB + טרוקר ללא סכין 5 NB5STF,6,Cheap
+DYNAMESH ENDOLAP 3D 10*15CM + בלון אמצעי T10SB + טרוקר ללא סכין 5 NB5STF,104,Expensive
+DYNAMESH ENDOLAP 3D 10*15CM + טרוקר ללא סכין 5 NB5STF,6,Cheap
+DYNAMESH ENDOLAP 3D 10*15CM + טרוקר ללא סכין 5 NB5STF,104,Expensive
+אנדו קליפ 5 EL5ML + טאקר נספג-12 סיכות-ETHICON,38,Cheap
+אנדו קליפ 5 EL5ML + טאקר נספג-12 סיכות-ETHICON,71,Expensive
+DEXTILE LEFT ANT. MESH 16X12CM + טרוקר אקסל ללא סכין 11 B11LT,109,Cheap
+DEXTILE LEFT ANT. MESH 16X12CM + טרוקר אקסל ללא סכין 11 B11LT,0,Expensive
+DEXTILE LEFT ANT. MESH 16X12CM + DEXTILE RIGHT ANT. MESH 16X12C + טרוקר אקסל ללא סכין 11 B11LT,109,Cheap
+DEXTILE LEFT ANT. MESH 16X12CM + DEXTILE RIGHT ANT. MESH 16X12C + טרוקר אקסל ללא סכין 11 B11LT,0,Expensive
+3DMAX LARGE 10.8X16-RIGHT + LIQUIBAND FIX8 טאקר דבק + טרוקר אקסל ללא סכין 11 B11LT,101,Cheap
+3DMAX LARGE 10.8X16-RIGHT + LIQUIBAND FIX8 טאקר דבק + טרוקר אקסל ללא סכין 11 B11LT,8,Expensive
+CAPSURE טאקר 30 + DEXTILE RIGHT ANT. MESH 16X12C,108,Cheap
+CAPSURE טאקר 30 + DEXTILE RIGHT ANT. MESH 16X12C,0,Expensive
+אנדו קליפ 5 176630 + בלון דו צדדי PDBS2,3,Cheap
+אנדו קליפ 5 176630 + בלון דו צדדי PDBS2,105,Expensive
+3DMAX LARGE 10.8X16-LEFT + LIQUIBAND FIX8 טאקר דבק + טרוקר אקסל ללא סכין 11 B11LT,100,Cheap
+3DMAX LARGE 10.8X16-LEFT + LIQUIBAND FIX8 טאקר דבק + טרוקר אקסל ללא סכין 11 B11LT,8,Expensive
+CAPSURE טאקר 30 + DEXTILE LEFT ANT. MESH 16X12CM + DEXTILE RIGHT ANT. MESH 16X12C,107,Cheap
+CAPSURE טאקר 30 + DEXTILE LEFT ANT. MESH 16X12CM + DEXTILE RIGHT ANT. MESH 16X12C,0,Expensive
+CAPSURE טאקר 30 + DEXTILE LEFT ANT. MESH 16X12CM,107,Cheap
+CAPSURE טאקר 30 + DEXTILE LEFT ANT. MESH 16X12CM,0,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + LIQUIBAND FIX8 טאקר דבק + טרוקר אקסל ללא סכין 11 B11LT,100,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + LIQUIBAND FIX8 טאקר דבק + טרוקר אקסל ללא סכין 11 B11LT,7,Expensive
+CAPSURE טאקר 30 + DEXTILE RIGHT ANT. MESH 16X12C + טרוקר אקסל ללא סכין 11 B11LT,107,Cheap
+CAPSURE טאקר 30 + DEXTILE RIGHT ANT. MESH 16X12C + טרוקר אקסל ללא סכין 11 B11LT,0,Expensive
+CAPSURE טאקר 30 + DEXTILE LEFT ANT. MESH 16X12CM + DEXTILE RIGHT ANT. MESH 16X12C + טרוקר אקסל ללא סכין 11 B11LT,106,Cheap
+CAPSURE טאקר 30 + DEXTILE LEFT ANT. MESH 16X12CM + DEXTILE RIGHT ANT. MESH 16X12C + טרוקר אקסל ללא סכין 11 B11LT,0,Expensive
+CAPSURE טאקר 30 + DEXTILE LEFT ANT. MESH 16X12CM + טרוקר אקסל ללא סכין 11 B11LT,106,Cheap
+CAPSURE טאקר 30 + DEXTILE LEFT ANT. MESH 16X12CM + טרוקר אקסל ללא סכין 11 B11LT,0,Expensive
+אנדו קליפ 5 176630 + בלון אמצעי T10SB,3,Cheap
+אנדו קליפ 5 176630 + בלון אמצעי T10SB,101,Expensive
+אנדו קליפ 5 176630 + בלון אמצעי T10SB + בלון דו צדדי PDBS2,3,Cheap
+אנדו קליפ 5 176630 + בלון אמצעי T10SB + בלון דו צדדי PDBS2,101,Expensive
+טאקר נספג-12 סיכות-ETHICON + שרוול אקסל 10-11  CB11LT,91,Cheap
+טאקר נספג-12 סיכות-ETHICON + שרוול אקסל 10-11  CB11LT,12,Expensive
+LIQUIBAND FIX8 טאקר דבק + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,0,Cheap
+LIQUIBAND FIX8 טאקר דבק + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,102,Expensive
+בלון דו צדדי PDBS2 + טאקר נספג - 15 סיכות,12,Cheap
+בלון דו צדדי PDBS2 + טאקר נספג - 15 סיכות,89,Expensive
+בלון אמצעי T10SB + טאקר נספג - 15 סיכות,12,Cheap
+בלון אמצעי T10SB + טאקר נספג - 15 סיכות,88,Expensive
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג - 15 סיכות,12,Cheap
+בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טאקר נספג - 15 סיכות,88,Expensive
+LIQUIBAND FIX8 טאקר דבק + בלון אמצעי T10SB + טרוקר ללא סכין 5 NB5STF,0,Cheap
+LIQUIBAND FIX8 טאקר דבק + בלון אמצעי T10SB + טרוקר ללא סכין 5 NB5STF,99,Expensive
+LIQUIBAND FIX8 טאקר דבק + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,0,Cheap
+LIQUIBAND FIX8 טאקר דבק + בלון אמצעי T10SB + בלון דו צדדי PDBS2 + טרוקר ללא סכין 5 NB5STF,99,Expensive
+3DMAX LARGE 10.8X16-LEFT + טאקר נספג-12 סיכות-ETHICON + שרוול אקסל 10-11  CB11LT,86,Cheap
+3DMAX LARGE 10.8X16-LEFT + טאקר נספג-12 סיכות-ETHICON + שרוול אקסל 10-11  CB11LT,12,Expensive
+3DMAX LARGE 10.8X16-RIGHT + טאקר נספג-12 סיכות-ETHICON + שרוול אקסל 10-11  CB11LT,85,Cheap
+3DMAX LARGE 10.8X16-RIGHT + טאקר נספג-12 סיכות-ETHICON + שרוול אקסל 10-11  CB11LT,12,Expensive
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + טאקר נספג-12 סיכות-ETHICON + שרוול אקסל 10-11  CB11LT,84,Cheap
+3DMAX LARGE 10.8X16-LEFT + 3DMAX LARGE 10.8X16-RIGHT + טאקר נספג-12 סיכות-ETHICON + שרוול אקסל 10-11  CB11LT,12,Expensive
+טרוקר אקסל OPTI-5X100 + טרוקר אקסל ללא סכין 11 B11LT + שרוול אקסל OPTI-5X100,73,Cheap
+טרוקר אקסל OPTI-5X100 + טרוקר אקסל ללא סכין 11 B11LT + שרוול אקסל OPTI-5X100,23,Expensive
