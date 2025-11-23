@@ -1,11 +1,11 @@
 support,itemsets,length
 0.47946666666666665,frozenset({'בלון דו צדדי PDBS2'}),1
 0.4554666666666667,frozenset({'בלון אמצעי T10SB'}),1
-0.44853333333333334,"frozenset({'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2'})",2
+0.44853333333333334,"frozenset({'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",2
 0.32853333333333334,frozenset({'טרוקר אקסל ללא סכין 11 B11LT'}),1
 0.32426666666666665,frozenset({'3DMAX LARGE 10.8X16-RIGHT'}),1
 0.32266666666666666,frozenset({'3DMAX LARGE 10.8X16-LEFT'}),1
-0.31626666666666664,"frozenset({'3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT'})",2
+0.31626666666666664,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT'})",2
 0.31466666666666665,frozenset({'טרוקר ללא סכין 5 NB5STF'}),1
 0.20906666666666668,frozenset({'טאקר-10 סיכות MICROVAL'}),1
 0.17653333333333332,frozenset({'טאקר נספג-12 סיכות-ETHICON'}),1
@@ -14,208 +14,208 @@ support,itemsets,length
 0.16906666666666667,frozenset({'סקשן איריגיישיין 5'}),1
 0.16746666666666668,frozenset({'מספריים לאפ'}),1
 0.1616,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
-0.1568,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון דו צדדי PDBS2'})",2
+0.1568,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר ללא סכין 5 NB5STF'})",2
 0.15253333333333333,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB'})",2
-0.15146666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2'})",3
+0.15146666666666667,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB'})",3
 0.13973333333333332,frozenset({'שרוול אקסל 10-11  CB11LT'}),1
 0.1392,frozenset({'DYNAMESH ENDOLAP 3D 10*15CM'}),1
-0.13333333333333333,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON'})",2
+0.13333333333333333,"frozenset({'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-LEFT'})",2
 0.1328,frozenset({'LIQUIBAND FIX8 טאקר דבק'}),1
 0.13173333333333334,frozenset({'טרוקר אקסל OPTI-סכין-5X100'}),1
-0.1312,"frozenset({'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-RIGHT'})",2
-0.1296,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'בלון דו צדדי PDBS2'})",2
-0.12906666666666666,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'בלון דו צדדי PDBS2'})",2
-0.12906666666666666,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-RIGHT'})",3
-0.12533333333333332,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'בלון דו צדדי PDBS2'})",3
+0.1312,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON'})",2
+0.1296,"frozenset({'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-LEFT'})",2
+0.12906666666666666,"frozenset({'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT'})",2
+0.12906666666666666,"frozenset({'3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON'})",3
+0.12533333333333332,"frozenset({'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT'})",3
 0.12373333333333333,"frozenset({'בלון דו צדדי PDBS2', 'סקשן איריגיישיין 5'})",2
 0.12106666666666667,frozenset({'CAPSURE טאקר 30'}),1
-0.12106666666666667,"frozenset({'בלון אמצעי T10SB', '3DMAX LARGE 10.8X16-LEFT'})",2
-0.12053333333333334,"frozenset({'בלון אמצעי T10SB', '3DMAX LARGE 10.8X16-RIGHT'})",2
-0.12,"frozenset({'בלון אמצעי T10SB', '3DMAX LARGE 10.8X16-LEFT', 'בלון דו צדדי PDBS2'})",3
-0.11946666666666667,"frozenset({'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT'})",3
-0.1184,"frozenset({'בלון אמצעי T10SB', 'סקשן איריגיישיין 5'})",2
-0.11786666666666666,"frozenset({'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', 'סקשן איריגיישיין 5'})",3
+0.12106666666666667,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'בלון אמצעי T10SB'})",2
+0.12053333333333334,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'בלון אמצעי T10SB'})",2
+0.12,"frozenset({'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-LEFT', 'בלון אמצעי T10SB'})",3
+0.11946666666666667,"frozenset({'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT', 'בלון אמצעי T10SB'})",3
+0.1184,"frozenset({'סקשן איריגיישיין 5', 'בלון אמצעי T10SB'})",2
+0.11786666666666666,"frozenset({'בלון דו צדדי PDBS2', 'סקשן איריגיישיין 5', 'בלון אמצעי T10SB'})",3
 0.11733333333333333,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טאקר-10 סיכות MICROVAL'})",2
-0.1168,"frozenset({'בלון אמצעי T10SB', '3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT'})",3
-0.11573333333333333,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2'})",4
-0.10666666666666667,"frozenset({'טאקר נספג-12 סיכות-ETHICON', 'בלון דו צדדי PDBS2'})",2
-0.1056,"frozenset({'בלון אמצעי T10SB', 'טאקר נספג-12 סיכות-ETHICON'})",2
-0.10453333333333334,"frozenset({'בלון אמצעי T10SB', 'טאקר נספג-12 סיכות-ETHICON', 'בלון דו צדדי PDBS2'})",3
-0.104,"frozenset({'בלון אמצעי T10SB', 'DYNAMESH ENDOLAP 3D 10*15CM'})",2
+0.1168,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'בלון אמצעי T10SB'})",3
+0.11573333333333333,"frozenset({'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'בלון אמצעי T10SB'})",4
+0.10666666666666667,"frozenset({'בלון דו צדדי PDBS2', 'טאקר נספג-12 סיכות-ETHICON'})",2
+0.1056,"frozenset({'טאקר נספג-12 סיכות-ETHICON', 'בלון אמצעי T10SB'})",2
+0.10453333333333334,"frozenset({'בלון דו צדדי PDBS2', 'טאקר נספג-12 סיכות-ETHICON', 'בלון אמצעי T10SB'})",3
+0.104,"frozenset({'DYNAMESH ENDOLAP 3D 10*15CM', 'בלון אמצעי T10SB'})",2
 0.10346666666666667,frozenset({'טרוקר CFF03 - 5X100'}),1
 0.10293333333333334,"frozenset({'DYNAMESH ENDOLAP 3D 10*15CM', 'בלון דו צדדי PDBS2'})",2
-0.1024,"frozenset({'בלון אמצעי T10SB', 'DYNAMESH ENDOLAP 3D 10*15CM', 'בלון דו צדדי PDBS2'})",3
-0.10186666666666666,"frozenset({'בלון אמצעי T10SB', 'טרוקר אקסל OPTI-סכין-5X100'})",2
-0.10133333333333333,"frozenset({'טרוקר אקסל OPTI-סכין-5X100', 'בלון דו צדדי PDBS2'})",2
+0.1024,"frozenset({'DYNAMESH ENDOLAP 3D 10*15CM', 'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",3
+0.10186666666666666,"frozenset({'טרוקר אקסל OPTI-סכין-5X100', 'בלון אמצעי T10SB'})",2
+0.10133333333333333,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר אקסל OPTI-סכין-5X100'})",2
 0.10026666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'סקשן איריגיישיין 5'})",2
-0.10026666666666667,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', 'טאקר-10 סיכות MICROVAL'})",2
-0.0992,"frozenset({'בלון אמצעי T10SB', 'טרוקר אקסל OPTI-סכין-5X100', 'בלון דו צדדי PDBS2'})",3
+0.10026666666666667,"frozenset({'טאקר-10 סיכות MICROVAL', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
+0.0992,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר אקסל OPTI-סכין-5X100', 'בלון אמצעי T10SB'})",3
 0.0992,frozenset({'שרוול לטרוקר 5 - CFS02'}),1
 0.09866666666666667,frozenset({'טרוקר אקסל OPTI-5X100'}),1
-0.09813333333333334,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', '3DMAX LARGE 10.8X16-RIGHT'})",2
-0.0976,"frozenset({'טרוקר CFF03 - 5X100', 'שרוול לטרוקר 5 - CFS02'})",2
+0.09813333333333334,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
+0.0976,"frozenset({'שרוול לטרוקר 5 - CFS02', 'טרוקר CFF03 - 5X100'})",2
 0.09706666666666666,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
 0.09653333333333333,"frozenset({'שרוול אקסל OPTI-5X100', 'טרוקר אקסל OPTI-סכין-5X100'})",2
-0.096,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', '3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT'})",3
-0.08853333333333334,"frozenset({'אנדו קליפ 5 EL5ML', 'בלון דו צדדי PDBS2'})",2
+0.096,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
+0.08853333333333334,"frozenset({'בלון דו צדדי PDBS2', 'אנדו קליפ 5 EL5ML'})",2
 0.08746666666666666,"frozenset({'שרוול אקסל OPTI-5X100', 'בלון דו צדדי PDBS2'})",2
 0.0864,frozenset({'MICROVAL 16X11-RIGHT'}),1
 0.08586666666666666,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT', 'טאקר-10 סיכות MICROVAL'})",3
-0.08586666666666666,"frozenset({'בלון אמצעי T10SB', 'שרוול אקסל OPTI-5X100'})",2
+0.08586666666666666,"frozenset({'שרוול אקסל OPTI-5X100', 'בלון אמצעי T10SB'})",2
 0.0848,frozenset({'MICROVAL 16X11-LEFT'}),1
-0.08373333333333334,"frozenset({'בלון אמצעי T10SB', 'שרוול אקסל OPTI-5X100', 'בלון דו צדדי PDBS2'})",3
+0.08373333333333334,"frozenset({'שרוול אקסל OPTI-5X100', 'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",3
 0.0832,frozenset({'MICROVAL 14X10-RIGHT'}),1
 0.0832,frozenset({'MICROVAL 14X10-LEFT'}),1
-0.08266666666666667,"frozenset({'MICROVAL 16X11-LEFT', 'MICROVAL 16X11-RIGHT'})",2
-0.08213333333333334,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'מספריים לאפ'})",2
+0.08266666666666667,"frozenset({'MICROVAL 16X11-RIGHT', 'MICROVAL 16X11-LEFT'})",2
+0.08213333333333334,"frozenset({'מספריים לאפ', 'טרוקר ללא סכין 5 NB5STF'})",2
 0.08053333333333333,frozenset({'טאקר נספג - 15 סיכות'}),1
 0.08053333333333333,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'אנדו קליפ 5 EL5ML'})",2
-0.08,"frozenset({'MICROVAL 14X10-RIGHT', 'MICROVAL 14X10-LEFT'})",2
-0.07893333333333333,"frozenset({'בלון אמצעי T10SB', 'טאקר-10 סיכות MICROVAL'})",2
-0.07893333333333333,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון דו צדדי PDBS2', 'סקשן איריגיישיין 5'})",3
+0.08,"frozenset({'MICROVAL 14X10-LEFT', 'MICROVAL 14X10-RIGHT'})",2
+0.07893333333333333,"frozenset({'טאקר-10 סיכות MICROVAL', 'בלון אמצעי T10SB'})",2
+0.07893333333333333,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר ללא סכין 5 NB5STF', 'סקשן איריגיישיין 5'})",3
 0.07893333333333333,"frozenset({'בלון אמצעי T10SB', 'אנדו קליפ 5 EL5ML'})",2
 0.07893333333333333,frozenset({'PROGRIP FLAT SHEET MESH 15X10'}),1
-0.0784,"frozenset({'אנדו קליפ 5 EL5ML', '3DMAX LARGE 10.8X16-RIGHT'})",2
+0.0784,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'אנדו קליפ 5 EL5ML'})",2
 0.0784,"frozenset({'מספריים לאפ', 'בלון דו צדדי PDBS2'})",2
 0.0784,"frozenset({'מספריים לאפ', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
 0.07786666666666667,frozenset({'PROGRIP ANTMCL 15X10CM-RIGHT'}),1
-0.07786666666666667,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'אנדו קליפ 5 EL5ML', '3DMAX LARGE 10.8X16-RIGHT'})",3
-0.07733333333333334,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', 'סקשן איריגיישיין 5'})",4
+0.07786666666666667,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'אנדו קליפ 5 EL5ML'})",3
+0.07733333333333334,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר ללא סכין 5 NB5STF', 'סקשן איריגיישיין 5', 'בלון אמצעי T10SB'})",4
 0.07733333333333334,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'LIQUIBAND FIX8 טאקר דבק'})",2
 0.07733333333333334,frozenset({'PROGRIP ANTMCL 15X10CM-LEFT'}),1
-0.07733333333333334,"frozenset({'בלון אמצעי T10SB', 'אנדו קליפ 5 EL5ML', 'בלון דו צדדי PDBS2'})",3
-0.07733333333333334,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB', 'סקשן איריגיישיין 5'})",3
-0.0768,"frozenset({'PROGRIP ANTMCL 15X10CM-LEFT', 'PROGRIP ANTMCL 15X10CM-RIGHT'})",2
-0.07573333333333333,"frozenset({'שרוול אקסל OPTI-5X100', 'טרוקר אקסל OPTI-סכין-5X100', 'בלון דו צדדי PDBS2'})",3
-0.07573333333333333,"frozenset({'בלון אמצעי T10SB', 'שרוול אקסל OPTI-5X100', 'טרוקר אקסל OPTI-סכין-5X100'})",3
-0.07573333333333333,"frozenset({'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL'})",3
+0.07733333333333334,"frozenset({'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB', 'אנדו קליפ 5 EL5ML'})",3
+0.07733333333333334,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'סקשן איריגיישיין 5', 'בלון אמצעי T10SB'})",3
+0.0768,"frozenset({'PROGRIP ANTMCL 15X10CM-RIGHT', 'PROGRIP ANTMCL 15X10CM-LEFT'})",2
+0.07573333333333333,"frozenset({'שרוול אקסל OPTI-5X100', 'בלון דו צדדי PDBS2', 'טרוקר אקסל OPTI-סכין-5X100'})",3
+0.07573333333333333,"frozenset({'שרוול אקסל OPTI-5X100', 'טרוקר אקסל OPTI-סכין-5X100', 'בלון אמצעי T10SB'})",3
+0.07573333333333333,"frozenset({'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL', 'בלון אמצעי T10SB'})",3
 0.07573333333333333,"frozenset({'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL'})",2
 0.07466666666666667,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'LIQUIBAND FIX8 טאקר דבק'})",2
-0.07413333333333333,"frozenset({'טאקר-10 סיכות MICROVAL', 'MICROVAL 14X10-LEFT'})",2
+0.07413333333333333,"frozenset({'MICROVAL 14X10-LEFT', 'טאקר-10 סיכות MICROVAL'})",2
 0.07413333333333333,frozenset({'אנדו קליפ 5 176630'}),1
-0.07413333333333333,"frozenset({'3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT', 'LIQUIBAND FIX8 טאקר דבק'})",3
+0.07413333333333333,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'LIQUIBAND FIX8 טאקר דבק'})",3
 0.07413333333333333,"frozenset({'מספריים מונופולר 5 מ""מ'})",1
-0.07413333333333333,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-RIGHT'})",2
+0.07413333333333333,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
 0.0736,"frozenset({'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL'})",2
-0.0736,"frozenset({'בלון אמצעי T10SB', '3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON'})",3
-0.0736,"frozenset({'בלון אמצעי T10SB', 'שרוול אקסל OPTI-5X100', 'טרוקר אקסל OPTI-סכין-5X100', 'בלון דו צדדי PDBS2'})",4
+0.0736,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון אמצעי T10SB'})",3
+0.0736,"frozenset({'שרוול אקסל OPTI-5X100', 'בלון דו צדדי PDBS2', 'טרוקר אקסל OPTI-סכין-5X100', 'בלון אמצעי T10SB'})",4
 0.07253333333333334,frozenset({'טרוקר אקסל עם סכין 10-11 D11LT'}),1
-0.07253333333333334,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-RIGHT'})",2
-0.07253333333333334,"frozenset({'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-RIGHT'})",2
-0.07253333333333334,"frozenset({'MICROVAL 16X11-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
-0.07253333333333334,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון דו צדדי PDBS2'})",3
-0.07253333333333334,"frozenset({'בלון אמצעי T10SB', '3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון דו צדדי PDBS2'})",4
-0.07253333333333334,"frozenset({'טרוקר אקסל OPTI-5X100', 'שרוול אקסל OPTI-5X100'})",2
+0.07253333333333334,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר ללא סכין 5 NB5STF'})",2
+0.07253333333333334,"frozenset({'MICROVAL 16X11-RIGHT', 'טאקר-10 סיכות MICROVAL'})",2
+0.07253333333333334,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-LEFT'})",2
+0.07253333333333334,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'בלון דו צדדי PDBS2', 'טאקר נספג-12 סיכות-ETHICON'})",3
+0.07253333333333334,"frozenset({'בלון דו צדדי PDBS2', 'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-LEFT', 'בלון אמצעי T10SB'})",4
+0.07253333333333334,"frozenset({'שרוול אקסל OPTI-5X100', 'טרוקר אקסל OPTI-5X100'})",2
 0.072,"frozenset({'טרוקר אקסל OPTI-5X100', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
-0.07146666666666666,"frozenset({'MICROVAL 16X11-LEFT', 'טאקר-10 סיכות MICROVAL'})",2
-0.07146666666666666,"frozenset({'בלון אמצעי T10SB', 'מספריים לאפ'})",2
-0.07146666666666666,"frozenset({'בלון אמצעי T10SB', 'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-RIGHT'})",3
-0.07146666666666666,"frozenset({'בלון אמצעי T10SB', 'מספריים לאפ', 'בלון דו צדדי PDBS2'})",3
-0.07093333333333333,"frozenset({'MICROVAL 16X11-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-RIGHT'})",3
-0.07093333333333333,"frozenset({'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 14X10-LEFT'})",3
+0.07146666666666666,"frozenset({'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-LEFT'})",2
+0.07146666666666666,"frozenset({'מספריים לאפ', 'בלון אמצעי T10SB'})",2
+0.07146666666666666,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון אמצעי T10SB'})",3
+0.07146666666666666,"frozenset({'מספריים לאפ', 'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",3
+0.07093333333333333,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-LEFT'})",3
+0.07093333333333333,"frozenset({'MICROVAL 14X10-LEFT', 'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL'})",3
 0.07093333333333333,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT'})",2
-0.07093333333333333,"frozenset({'בלון אמצעי T10SB', 'MICROVAL 14X10-RIGHT'})",2
+0.07093333333333333,"frozenset({'MICROVAL 14X10-RIGHT', 'בלון אמצעי T10SB'})",2
 0.07093333333333333,"frozenset({'CAPSURE טאקר 30', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
-0.0704,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-RIGHT'})",3
-0.0704,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון דו צדדי PDBS2'})",3
-0.0704,"frozenset({'בלון אמצעי T10SB', '3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-RIGHT'})",4
-0.0704,"frozenset({'בלון אמצעי T10SB', 'MICROVAL 14X10-LEFT'})",2
-0.0704,"frozenset({'בלון אמצעי T10SB', 'טאקר נספג-12 סיכות-ETHICON', 'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT'})",4
-0.06986666666666666,"frozenset({'בלון אמצעי T10SB', 'MICROVAL 14X10-RIGHT', 'MICROVAL 14X10-LEFT'})",3
-0.06933333333333333,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT', 'MICROVAL 16X11-RIGHT'})",3
-0.06933333333333333,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון דו צדדי PDBS2'})",4
-0.06933333333333333,"frozenset({'3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",5
-0.06933333333333333,"frozenset({'MICROVAL 16X11-LEFT', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-RIGHT'})",3
-0.0688,"frozenset({'MICROVAL 14X10-RIGHT', 'בלון דו צדדי PDBS2'})",2
-0.0688,"frozenset({'בלון אמצעי T10SB', 'MICROVAL 14X10-RIGHT', 'בלון דו צדדי PDBS2'})",3
-0.0688,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
-0.06826666666666667,"frozenset({'טרוקר CFF03 - 5X100', 'בלון דו צדדי PDBS2'})",2
-0.06826666666666667,"frozenset({'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-LEFT'})",3
-0.06826666666666667,"frozenset({'בלון דו צדדי PDBS2', 'MICROVAL 14X10-LEFT'})",2
+0.0704,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
+0.0704,"frozenset({'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON'})",3
+0.0704,"frozenset({'3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון אמצעי T10SB'})",4
+0.0704,"frozenset({'MICROVAL 14X10-LEFT', 'בלון אמצעי T10SB'})",2
+0.0704,"frozenset({'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON', 'בלון אמצעי T10SB'})",4
+0.06986666666666666,"frozenset({'MICROVAL 14X10-LEFT', 'MICROVAL 14X10-RIGHT', 'בלון אמצעי T10SB'})",3
+0.06933333333333333,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT'})",3
+0.06933333333333333,"frozenset({'בלון דו צדדי PDBS2', 'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT'})",4
+0.06933333333333333,"frozenset({'טאקר נספג-12 סיכות-ETHICON', 'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', '3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT'})",5
+0.06933333333333333,"frozenset({'MICROVAL 16X11-RIGHT', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-LEFT'})",3
+0.0688,"frozenset({'בלון דו צדדי PDBS2', 'MICROVAL 14X10-RIGHT'})",2
+0.0688,"frozenset({'בלון דו צדדי PDBS2', 'MICROVAL 14X10-RIGHT', 'בלון אמצעי T10SB'})",3
+0.0688,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-LEFT'})",3
+0.06826666666666667,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר CFF03 - 5X100'})",2
+0.06826666666666667,"frozenset({'MICROVAL 14X10-LEFT', 'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",3
+0.06826666666666667,"frozenset({'MICROVAL 14X10-LEFT', 'בלון דו צדדי PDBS2'})",2
 0.06826666666666667,frozenset({'DEXTILE RIGHT ANT. MESH 16X12C'}),1
-0.06773333333333334,"frozenset({'MICROVAL 14X10-RIGHT', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-LEFT'})",3
-0.06773333333333334,"frozenset({'בלון אמצעי T10SB', 'MICROVAL 14X10-RIGHT', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-LEFT'})",4
+0.06773333333333334,"frozenset({'MICROVAL 14X10-LEFT', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-RIGHT'})",3
+0.06773333333333334,"frozenset({'MICROVAL 14X10-LEFT', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-RIGHT', 'בלון אמצעי T10SB'})",4
 0.0672,frozenset({'DEXTILE LEFT ANT. MESH 16X12CM'}),1
-0.0672,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-RIGHT'})",4
+0.0672,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-LEFT'})",4
 0.0672,"frozenset({'DEXTILE RIGHT ANT. MESH 16X12C', 'DEXTILE LEFT ANT. MESH 16X12CM'})",2
 0.0672,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'שרוול אקסל 10-11  CB11LT'})",2
-0.0672,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'CAPSURE טאקר 30'})",2
+0.0672,"frozenset({'CAPSURE טאקר 30', 'טרוקר ללא סכין 5 NB5STF'})",2
 0.06666666666666667,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'שרוול אקסל 10-11  CB11LT'})",2
-0.06666666666666667,"frozenset({'בלון אמצעי T10SB', 'טרוקר CFF03 - 5X100'})",2
+0.06666666666666667,"frozenset({'טרוקר CFF03 - 5X100', 'בלון אמצעי T10SB'})",2
 0.06666666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'LIQUIBAND FIX8 טאקר דבק'})",2
-0.06613333333333334,"frozenset({'שרוול אקסל 10-11  CB11LT', '3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT'})",3
+0.06613333333333334,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'שרוול אקסל 10-11  CB11LT'})",3
 0.0656,"frozenset({'מספריים לאפ', 'סקשן איריגיישיין 5'})",2
-0.0656,"frozenset({'בלון דו צדדי PDBS2', 'שרוול לטרוקר 5 - CFS02'})",2
-0.0656,"frozenset({'בלון אמצעי T10SB', 'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL'})",3
-0.06506666666666666,"frozenset({'טאקר-10 סיכות MICROVAL', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-RIGHT'})",3
-0.06506666666666666,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-RIGHT'})",3
-0.06506666666666666,"frozenset({'בלון אמצעי T10SB', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 14X10-LEFT'})",3
+0.0656,"frozenset({'שרוול לטרוקר 5 - CFS02', 'בלון דו צדדי PDBS2'})",2
+0.0656,"frozenset({'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL', 'בלון אמצעי T10SB'})",3
+0.06506666666666666,"frozenset({'MICROVAL 16X11-RIGHT', 'טאקר-10 סיכות MICROVAL', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
+0.06506666666666666,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר ללא סכין 5 NB5STF', 'טאקר-10 סיכות MICROVAL'})",3
+0.06506666666666666,"frozenset({'MICROVAL 14X10-LEFT', 'טאקר-10 סיכות MICROVAL', 'בלון אמצעי T10SB'})",3
 0.06453333333333333,"frozenset({'בלון דו צדדי PDBS2', 'LIQUIBAND FIX8 טאקר דבק'})",2
-0.06453333333333333,"frozenset({'בלון אמצעי T10SB', 'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 14X10-LEFT'})",4
-0.06453333333333333,"frozenset({'טרוקר CFF03 - 5X100', 'בלון דו צדדי PDBS2', 'שרוול לטרוקר 5 - CFS02'})",3
-0.064,"frozenset({'בלון אמצעי T10SB', 'טרוקר CFF03 - 5X100', 'בלון דו צדדי PDBS2'})",3
-0.06346666666666667,"frozenset({'בלון אמצעי T10SB', 'שרוול לטרוקר 5 - CFS02'})",2
-0.06346666666666667,"frozenset({'בלון אמצעי T10SB', 'MICROVAL 14X10-RIGHT', 'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL'})",4
-0.06346666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT', 'טאקר-10 סיכות MICROVAL'})",3
+0.06453333333333333,"frozenset({'MICROVAL 14X10-LEFT', 'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL', 'בלון אמצעי T10SB'})",4
+0.06453333333333333,"frozenset({'שרוול לטרוקר 5 - CFS02', 'בלון דו צדדי PDBS2', 'טרוקר CFF03 - 5X100'})",3
+0.064,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר CFF03 - 5X100', 'בלון אמצעי T10SB'})",3
+0.06346666666666667,"frozenset({'שרוול לטרוקר 5 - CFS02', 'בלון אמצעי T10SB'})",2
+0.06346666666666667,"frozenset({'בלון דו צדדי PDBS2', 'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL', 'בלון אמצעי T10SB'})",4
+0.06346666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-LEFT'})",3
 0.06346666666666667,"frozenset({'שרוול אקסל OPTI-5X100', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
-0.06346666666666667,"frozenset({'MICROVAL 16X11-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT', 'טאקר-10 סיכות MICROVAL'})",3
-0.06346666666666667,"frozenset({'MICROVAL 14X10-RIGHT', 'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL'})",3
-0.06346666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טאקר-10 סיכות MICROVAL', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-RIGHT'})",4
-0.06293333333333333,"frozenset({'טאקר-10 סיכות MICROVAL', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-LEFT'})",3
-0.06293333333333333,"frozenset({'בלון אמצעי T10SB', 'טאקר-10 סיכות MICROVAL', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-LEFT'})",4
+0.06346666666666667,"frozenset({'טאקר-10 סיכות MICROVAL', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-LEFT'})",3
+0.06346666666666667,"frozenset({'בלון דו צדדי PDBS2', 'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL'})",3
+0.06346666666666667,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT', 'טאקר-10 סיכות MICROVAL'})",4
+0.06293333333333333,"frozenset({'MICROVAL 14X10-LEFT', 'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL'})",3
+0.06293333333333333,"frozenset({'MICROVAL 14X10-LEFT', 'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL', 'בלון אמצעי T10SB'})",4
 0.0624,"frozenset({'מספריים לאפ', '3DMAX LARGE 10.8X16-RIGHT'})",2
 0.0624,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', 'LIQUIBAND FIX8 טאקר דבק'})",2
-0.0624,"frozenset({'MICROVAL 14X10-RIGHT', 'MICROVAL 14X10-LEFT', 'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL', 'בלון אמצעי T10SB'})",5
-0.0624,"frozenset({'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-LEFT'})",4
-0.0624,"frozenset({'בלון אמצעי T10SB', 'טרוקר CFF03 - 5X100', 'שרוול לטרוקר 5 - CFS02'})",3
-0.06186666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT', 'טאקר-10 סיכות MICROVAL'})",4
-0.06186666666666667,"frozenset({'MICROVAL 16X11-LEFT', 'טאקר-10 סיכות MICROVAL', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-RIGHT'})",4
-0.06186666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-RIGHT'})",4
-0.06133333333333333,"frozenset({'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', 'שרוול לטרוקר 5 - CFS02'})",3
-0.06133333333333333,"frozenset({'PROGRIP ANTMCL 15X10CM-RIGHT', 'בלון דו צדדי PDBS2'})",2
-0.0608,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'מספריים לאפ'})",2
-0.06026666666666667,"frozenset({'PROGRIP ANTMCL 15X10CM-RIGHT', 'PROGRIP ANTMCL 15X10CM-LEFT', 'בלון דו צדדי PDBS2'})",3
-0.06026666666666667,"frozenset({'בלון אמצעי T10SB', 'PROGRIP ANTMCL 15X10CM-RIGHT', 'בלון דו צדדי PDBS2'})",3
-0.06026666666666667,"frozenset({'בלון אמצעי T10SB', 'PROGRIP ANTMCL 15X10CM-RIGHT'})",2
-0.06026666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-LEFT', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-RIGHT'})",5
-0.06026666666666667,"frozenset({'בלון אמצעי T10SB', 'טרוקר CFF03 - 5X100', 'בלון דו צדדי PDBS2', 'שרוול לטרוקר 5 - CFS02'})",4
-0.06026666666666667,"frozenset({'PROGRIP ANTMCL 15X10CM-LEFT', 'בלון דו צדדי PDBS2'})",2
-0.05973333333333333,"frozenset({'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', 'LIQUIBAND FIX8 טאקר דבק'})",3
-0.05973333333333333,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'מספריים לאפ', '3DMAX LARGE 10.8X16-RIGHT'})",3
-0.05973333333333333,"frozenset({'בלון אמצעי T10SB', 'LIQUIBAND FIX8 טאקר דבק'})",2
-0.0592,"frozenset({'בלון אמצעי T10SB', 'PROGRIP ANTMCL 15X10CM-LEFT', 'PROGRIP ANTMCL 15X10CM-RIGHT'})",3
-0.0592,"frozenset({'בלון אמצעי T10SB', 'PROGRIP ANTMCL 15X10CM-LEFT', 'בלון דו צדדי PDBS2'})",3
-0.0592,"frozenset({'בלון אמצעי T10SB', 'PROGRIP ANTMCL 15X10CM-LEFT'})",2
-0.0592,"frozenset({'בלון אמצעי T10SB', 'PROGRIP ANTMCL 15X10CM-RIGHT', 'PROGRIP ANTMCL 15X10CM-LEFT', 'בלון דו צדדי PDBS2'})",4
+0.0624,"frozenset({'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 14X10-RIGHT', 'MICROVAL 14X10-LEFT'})",5
+0.0624,"frozenset({'MICROVAL 14X10-LEFT', 'בלון דו צדדי PDBS2', 'MICROVAL 14X10-RIGHT', 'טאקר-10 סיכות MICROVAL'})",4
+0.0624,"frozenset({'שרוול לטרוקר 5 - CFS02', 'טרוקר CFF03 - 5X100', 'בלון אמצעי T10SB'})",3
+0.06186666666666667,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'טרוקר אקסל ללא סכין 11 B11LT', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-LEFT'})",4
+0.06186666666666667,"frozenset({'MICROVAL 16X11-RIGHT', 'טאקר-10 סיכות MICROVAL', 'טרוקר אקסל ללא סכין 11 B11LT', 'MICROVAL 16X11-LEFT'})",4
+0.06186666666666667,"frozenset({'MICROVAL 16X11-RIGHT', 'טרוקר ללא סכין 5 NB5STF', 'טאקר-10 סיכות MICROVAL', 'MICROVAL 16X11-LEFT'})",4
+0.06133333333333333,"frozenset({'שרוול לטרוקר 5 - CFS02', 'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",3
+0.06133333333333333,"frozenset({'בלון דו צדדי PDBS2', 'PROGRIP ANTMCL 15X10CM-RIGHT'})",2
+0.0608,"frozenset({'מספריים לאפ', '3DMAX LARGE 10.8X16-LEFT'})",2
+0.06026666666666667,"frozenset({'בלון דו צדדי PDBS2', 'PROGRIP ANTMCL 15X10CM-RIGHT', 'PROGRIP ANTMCL 15X10CM-LEFT'})",3
+0.06026666666666667,"frozenset({'בלון דו צדדי PDBS2', 'PROGRIP ANTMCL 15X10CM-RIGHT', 'בלון אמצעי T10SB'})",3
+0.06026666666666667,"frozenset({'PROGRIP ANTMCL 15X10CM-RIGHT', 'בלון אמצעי T10SB'})",2
+0.06026666666666667,"frozenset({'טאקר-10 סיכות MICROVAL', 'טרוקר אקסל ללא סכין 11 B11LT', 'טרוקר ללא סכין 5 NB5STF', 'MICROVAL 16X11-LEFT', 'MICROVAL 16X11-RIGHT'})",5
+0.06026666666666667,"frozenset({'שרוול לטרוקר 5 - CFS02', 'בלון דו צדדי PDBS2', 'טרוקר CFF03 - 5X100', 'בלון אמצעי T10SB'})",4
+0.06026666666666667,"frozenset({'בלון דו צדדי PDBS2', 'PROGRIP ANTMCL 15X10CM-LEFT'})",2
+0.05973333333333333,"frozenset({'LIQUIBAND FIX8 טאקר דבק', 'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",3
+0.05973333333333333,"frozenset({'מספריים לאפ', '3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT'})",3
+0.05973333333333333,"frozenset({'LIQUIBAND FIX8 טאקר דבק', 'בלון אמצעי T10SB'})",2
+0.0592,"frozenset({'PROGRIP ANTMCL 15X10CM-LEFT', 'PROGRIP ANTMCL 15X10CM-RIGHT', 'בלון אמצעי T10SB'})",3
+0.0592,"frozenset({'בלון דו צדדי PDBS2', 'PROGRIP ANTMCL 15X10CM-LEFT', 'בלון אמצעי T10SB'})",3
+0.0592,"frozenset({'PROGRIP ANTMCL 15X10CM-LEFT', 'בלון אמצעי T10SB'})",2
+0.0592,"frozenset({'בלון דו צדדי PDBS2', 'PROGRIP ANTMCL 15X10CM-RIGHT', 'PROGRIP ANTMCL 15X10CM-LEFT', 'בלון אמצעי T10SB'})",4
 0.058666666666666666,"frozenset({'DEXTILE RIGHT ANT. MESH 16X12C', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
 0.058666666666666666,frozenset({'טאקר נספג-25 סיכות-ETHICON'}),1
-0.058666666666666666,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB', 'DYNAMESH ENDOLAP 3D 10*15CM', 'בלון דו צדדי PDBS2'})",4
-0.058666666666666666,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'DYNAMESH ENDOLAP 3D 10*15CM', 'בלון דו צדדי PDBS2'})",3
-0.058666666666666666,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB', 'DYNAMESH ENDOLAP 3D 10*15CM'})",3
-0.058666666666666666,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'DYNAMESH ENDOLAP 3D 10*15CM'})",2
+0.058666666666666666,"frozenset({'DYNAMESH ENDOLAP 3D 10*15CM', 'בלון דו צדדי PDBS2', 'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB'})",4
+0.058666666666666666,"frozenset({'DYNAMESH ENDOLAP 3D 10*15CM', 'בלון דו צדדי PDBS2', 'טרוקר ללא סכין 5 NB5STF'})",3
+0.058666666666666666,"frozenset({'DYNAMESH ENDOLAP 3D 10*15CM', 'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB'})",3
+0.058666666666666666,"frozenset({'DYNAMESH ENDOLAP 3D 10*15CM', 'טרוקר ללא סכין 5 NB5STF'})",2
 0.058133333333333335,"frozenset({'טאקר נספג-12 סיכות-ETHICON', 'אנדו קליפ 5 EL5ML'})",2
-0.058133333333333335,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', 'DEXTILE LEFT ANT. MESH 16X12CM'})",2
-0.058133333333333335,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', 'DEXTILE RIGHT ANT. MESH 16X12C', 'DEXTILE LEFT ANT. MESH 16X12CM'})",3
-0.058133333333333335,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', '3DMAX LARGE 10.8X16-RIGHT', 'LIQUIBAND FIX8 טאקר דבק'})",3
-0.0576,"frozenset({'CAPSURE טאקר 30', 'DEXTILE RIGHT ANT. MESH 16X12C'})",2
-0.0576,"frozenset({'אנדו קליפ 5 176630', 'בלון דו צדדי PDBS2'})",2
+0.058133333333333335,"frozenset({'DEXTILE LEFT ANT. MESH 16X12CM', 'טרוקר אקסל ללא סכין 11 B11LT'})",2
+0.058133333333333335,"frozenset({'DEXTILE RIGHT ANT. MESH 16X12C', 'DEXTILE LEFT ANT. MESH 16X12CM', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
+0.058133333333333335,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'טרוקר אקסל ללא סכין 11 B11LT', 'LIQUIBAND FIX8 טאקר דבק'})",3
+0.0576,"frozenset({'DEXTILE RIGHT ANT. MESH 16X12C', 'CAPSURE טאקר 30'})",2
+0.0576,"frozenset({'בלון דו צדדי PDBS2', 'אנדו קליפ 5 176630'})",2
 0.0576,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT', 'LIQUIBAND FIX8 טאקר דבק'})",3
-0.05706666666666667,"frozenset({'CAPSURE טאקר 30', 'DEXTILE RIGHT ANT. MESH 16X12C', 'DEXTILE LEFT ANT. MESH 16X12CM'})",3
-0.05706666666666667,"frozenset({'CAPSURE טאקר 30', 'DEXTILE LEFT ANT. MESH 16X12CM'})",2
-0.05706666666666667,"frozenset({'טרוקר אקסל ללא סכין 11 B11LT', '3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT', 'LIQUIBAND FIX8 טאקר דבק'})",4
-0.05706666666666667,"frozenset({'CAPSURE טאקר 30', 'DEXTILE RIGHT ANT. MESH 16X12C', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
-0.05653333333333333,"frozenset({'CAPSURE טאקר 30', 'DEXTILE RIGHT ANT. MESH 16X12C', 'DEXTILE LEFT ANT. MESH 16X12CM', 'טרוקר אקסל ללא סכין 11 B11LT'})",4
-0.05653333333333333,"frozenset({'CAPSURE טאקר 30', 'DEXTILE LEFT ANT. MESH 16X12CM', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
-0.055466666666666664,"frozenset({'בלון אמצעי T10SB', 'אנדו קליפ 5 176630'})",2
-0.055466666666666664,"frozenset({'בלון אמצעי T10SB', 'אנדו קליפ 5 176630', 'בלון דו צדדי PDBS2'})",3
+0.05706666666666667,"frozenset({'DEXTILE LEFT ANT. MESH 16X12CM', 'CAPSURE טאקר 30', 'DEXTILE RIGHT ANT. MESH 16X12C'})",3
+0.05706666666666667,"frozenset({'DEXTILE LEFT ANT. MESH 16X12CM', 'CAPSURE טאקר 30'})",2
+0.05706666666666667,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', '3DMAX LARGE 10.8X16-LEFT', 'טרוקר אקסל ללא סכין 11 B11LT', 'LIQUIBAND FIX8 טאקר דבק'})",4
+0.05706666666666667,"frozenset({'DEXTILE RIGHT ANT. MESH 16X12C', 'CAPSURE טאקר 30', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
+0.05653333333333333,"frozenset({'DEXTILE LEFT ANT. MESH 16X12CM', 'CAPSURE טאקר 30', 'טרוקר אקסל ללא סכין 11 B11LT', 'DEXTILE RIGHT ANT. MESH 16X12C'})",4
+0.05653333333333333,"frozenset({'DEXTILE LEFT ANT. MESH 16X12CM', 'CAPSURE טאקר 30', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
+0.055466666666666664,"frozenset({'אנדו קליפ 5 176630', 'בלון אמצעי T10SB'})",2
+0.055466666666666664,"frozenset({'בלון דו צדדי PDBS2', 'אנדו קליפ 5 176630', 'בלון אמצעי T10SB'})",3
 0.054933333333333334,"frozenset({'טאקר נספג-12 סיכות-ETHICON', 'שרוול אקסל 10-11  CB11LT'})",2
-0.0544,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון דו צדדי PDBS2', 'LIQUIBAND FIX8 טאקר דבק'})",3
+0.0544,"frozenset({'בלון דו צדדי PDBS2', 'טרוקר ללא סכין 5 NB5STF', 'LIQUIBAND FIX8 טאקר דבק'})",3
 0.05386666666666667,"frozenset({'טאקר נספג - 15 סיכות', 'בלון דו צדדי PDBS2'})",2
-0.05333333333333334,"frozenset({'בלון אמצעי T10SB', 'טאקר נספג - 15 סיכות'})",2
-0.05333333333333334,"frozenset({'בלון אמצעי T10SB', 'טאקר נספג - 15 סיכות', 'בלון דו צדדי PDBS2'})",3
-0.0528,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB', 'LIQUIBAND FIX8 טאקר דבק'})",3
-0.0528,"frozenset({'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB', 'בלון דו צדדי PDBS2', 'LIQUIBAND FIX8 טאקר דבק'})",4
-0.05226666666666667,"frozenset({'שרוול אקסל 10-11  CB11LT', '3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON'})",3
+0.05333333333333334,"frozenset({'טאקר נספג - 15 סיכות', 'בלון אמצעי T10SB'})",2
+0.05333333333333334,"frozenset({'טאקר נספג - 15 סיכות', 'בלון דו צדדי PDBS2', 'בלון אמצעי T10SB'})",3
+0.0528,"frozenset({'LIQUIBAND FIX8 טאקר דבק', 'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB'})",3
+0.0528,"frozenset({'LIQUIBAND FIX8 טאקר דבק', 'בלון דו צדדי PDBS2', 'טרוקר ללא סכין 5 NB5STF', 'בלון אמצעי T10SB'})",4
+0.05226666666666667,"frozenset({'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-LEFT', 'שרוול אקסל 10-11  CB11LT'})",3
 0.05173333333333333,"frozenset({'3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON', 'שרוול אקסל 10-11  CB11LT'})",3
-0.0512,"frozenset({'3DMAX LARGE 10.8X16-LEFT', 'טאקר נספג-12 סיכות-ETHICON', '3DMAX LARGE 10.8X16-RIGHT', 'שרוול אקסל 10-11  CB11LT'})",4
-0.0512,"frozenset({'טרוקר אקסל OPTI-5X100', 'שרוול אקסל OPTI-5X100', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
+0.0512,"frozenset({'3DMAX LARGE 10.8X16-LEFT', '3DMAX LARGE 10.8X16-RIGHT', 'טאקר נספג-12 סיכות-ETHICON', 'שרוול אקסל 10-11  CB11LT'})",4
+0.0512,"frozenset({'שרוול אקסל OPTI-5X100', 'טרוקר אקסל OPTI-5X100', 'טרוקר אקסל ללא סכין 11 B11LT'})",3
