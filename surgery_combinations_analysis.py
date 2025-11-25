@@ -58,6 +58,10 @@ if case_col and item_col and surgeon_col:
     
     # Merge all case-level info
     case_data = case_items.merge(case_surgeon, on=case_col).merge(case_total, on=case_col)
+
+    # Add column: all surgeons who have used this combination
+    combo_to_surgeons = case_data.groupby('combination')[surgeon_col].apply(lambda x: ', '.join(sorted(set(x)))).to_dict()
+    case_data['all_surgeons_for_combination'] = case_data['combination'].map(combo_to_surgeons)
     
     # Load surgeon group mapping
     group_map = None
@@ -90,6 +94,12 @@ if case_col and item_col and surgeon_col:
     print("Aggregating by Combination...")
     print('='*80)
     
+    # Aggregate by combination
+    def total_item_quantity(combination_str):
+        # Parse 'item (n) + item2 (m)' format
+        import re
+        return sum([int(q) for q in re.findall(r'\((\d+)\)', combination_str)])
+
     combo_agg = case_data.groupby('combination').agg({
         case_col: 'count',
         'total_amount': 'sum',
@@ -97,6 +107,7 @@ if case_col and item_col and surgeon_col:
     }).reset_index()
     combo_agg.columns = ['combination', 'frequency', 'total_amount', 'surgeons']
     combo_agg['avg_amount_per_case'] = combo_agg['total_amount'] / combo_agg['frequency']
+    combo_agg['total_item_quantity'] = combo_agg['combination'].apply(total_item_quantity)
     combo_agg = combo_agg.sort_values('frequency', ascending=False)
     
     print(f"\nTotal unique combinations: {len(combo_agg)}")
@@ -122,7 +133,7 @@ if case_col and item_col and surgeon_col:
     with pd.ExcelWriter(combo_output, engine='openpyxl') as writer:
         combo_agg.to_excel(writer, index=False, sheet_name='Combination Summary')
     print(f"\nAggregated data saved to: {combo_output}")
-    print(f"Columns: combination, frequency, total_amount, avg_amount_per_case, surgeons")
+    print(f"Columns: combination, frequency, total_amount, avg_amount_per_case, surgeons, total_item_quantity")
     
     # Also save as CSV for easy viewing
     case_data.to_csv('surgery_case_combinations.csv', index=False)
