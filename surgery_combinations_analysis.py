@@ -38,8 +38,12 @@ if case_col and item_col and surgeon_col:
     print("Building Surgery Combinations...")
     print('='*80)
     
-    # Group items by case
-    case_items = df.groupby(case_col)[item_col].apply(lambda x: ' + '.join(sorted(x))).reset_index()
+    # Group items by case, with quantity for each item
+    def combo_with_quantity(subdf):
+        counts = subdf[item_col].value_counts()
+        return ' + '.join([f"{item} ({counts[item]})" for item in sorted(counts.index)])
+
+    case_items = df.groupby(case_col).apply(combo_with_quantity).reset_index()
     case_items.columns = [case_col, 'combination']
     
     # Get surgeon for each case
